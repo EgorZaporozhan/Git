@@ -1,0 +1,14 @@
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\6Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\6Home.AssemblyInfoInputs.cache
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\6Home.AssemblyInfo.cs
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\6Home.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\6Home\6Home\bin\Debug\net8.0\6Home.exe
+C:\Users\Egor\source\repos\6Home\6Home\bin\Debug\net8.0\6Home.deps.json
+C:\Users\Egor\source\repos\6Home\6Home\bin\Debug\net8.0\6Home.runtimeconfig.json
+C:\Users\Egor\source\repos\6Home\6Home\bin\Debug\net8.0\6Home.dll
+C:\Users\Egor\source\repos\6Home\6Home\bin\Debug\net8.0\6Home.pdb
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\6Home.dll
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\refint\6Home.dll
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\6Home.pdb
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\6Home.genruntimeconfig.cache
+C:\Users\Egor\source\repos\6Home\6Home\obj\Debug\net8.0\ref\6Home.dll
