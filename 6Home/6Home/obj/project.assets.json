@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Egor\\source\\repos\\6Home\\6Home\\6Home.csproj",
+      "projectUniqueName": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\6Home\\6Home.csproj",
       "projectName": "6Home",
-      "projectPath": "C:\\Users\\Egor\\source\\repos\\6Home\\6Home\\6Home.csproj",
+      "projectPath": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\6Home\\6Home.csproj",
       "packagesPath": "C:\\Users\\Egor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Egor\\source\\repos\\6Home\\6Home\\obj\\",
+      "outputPath": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\6Home\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Egor\\AppData\\Roaming\\NuGet\\NuGet.Config",

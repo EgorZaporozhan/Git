@@ -35,12 +35,14 @@ class Program
             }
 
         }
-
+        /*TEST*/
+        
         else
         {
 
             Console.WriteLine("Речення не містить рівно 10 слів.");
-
+            Console.WriteLine("Речення не містить рівно 10 слів.");
+         
         }
 
     }

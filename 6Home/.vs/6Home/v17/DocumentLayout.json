@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE273B-1EEC-47F6-A36E-ADF8CB4BADD0}|6Home\\6Home.csproj|c:\\users\\egor\\documents\\github\\git\\6home\\6home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FE273B-1EEC-47F6-A36E-ADF8CB4BADD0}|6Home\\6Home.csproj|solutionrelative:6home\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FE273B-1EEC-47F6-A36E-ADF8CB4BADD0}|6Home\\6Home.csproj|c:\\users\\egor\\documents\\github\\git\\6home\\6home\\6home.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46FE273B-1EEC-47F6-A36E-ADF8CB4BADD0}|6Home\\6Home.csproj|solutionrelative:6home\\6home.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\6Home\\Program.cs",
+              "RelativeDocumentMoniker": "6Home\\Program.cs",
+              "ToolTip": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\6Home\\Program.cs",
+              "RelativeToolTip": "6Home\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:54:44.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6Home",
+              "DocumentMoniker": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\6Home\\6Home.csproj",
+              "RelativeDocumentMoniker": "6Home\\6Home.csproj",
+              "ToolTip": "C:\\Users\\Egor\\Documents\\GitHub\\Git\\6Home\\6Home\\6Home.csproj",
+              "RelativeToolTip": "6Home\\6Home.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T17:54:42.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
